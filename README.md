@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kalibark2
+- 👋 Hi, I’m @kelvin_andrade
 - 👀 I’m interested in TI
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin,python,mysql and git.
 - 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me ...
 
